@@ -99,6 +99,8 @@
     </main>
     <footer>
         <p>&copy; 2026 GTA Vice City Fan Site. Все права защищены. Автор: Zer0code228</p>
+        <p>Ссылка на википедию</p>
+      <a href="https://ru.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City">Википедия</a>
     </footer>
 </body>
 </html>
