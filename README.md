@@ -96,8 +96,6 @@
             <img src="vice1.png" alt="Скриншот 1: Неоновые улицы Вайс‑Сити" width="300">
             <img src="вайс2.webp" alt="Скриншот 2: Томми Версетти у автомобиля" width="300">
             <img src="вайс3.jpg" alt="Скриншот 3: Вид на город" width="300">
-      <h2>Ссылка на википедию</h2>
-      <a href="https://ru.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City">Википедия</a>
     </main>
     <footer>
         <p>&copy; 2026 GTA Vice City Fan Site. Все права защищены. Автор: Zer0code228</p>
